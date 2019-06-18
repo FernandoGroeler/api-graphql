@@ -12,5 +12,5 @@
 
 # Endereços para olhar e testar:
 * JSON de retorno para visualização: http://localhost:4000/api/usuario 
-* Playgroud GraphQL: http://localhost:4000/graphiql.html
+* Playground GraphQL: http://localhost:4000/graphiql.html
 * Documentação: http://localhost:4000/api/documentacao
